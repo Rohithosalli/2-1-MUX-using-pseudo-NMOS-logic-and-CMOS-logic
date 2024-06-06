@@ -45,7 +45,7 @@ The simulation results demonstrate the functionality and performance of both imp
 ![Pseudo-NMOS Simulation Results]<img src="https://github.com/Rohithosalli/2-1-MUX-using-pseudo-NMOS-logic-and-CMOS-logic/blob/main/graph_sudo.jpg?raw=true">
 
 ### CMOS Logic Simulation Results
-![CMOS Simulation Results]<img src="C:\Users\rohit\OneDrive\Pictures\test_cmos.jpg">
+![CMOS Simulation Results]<img src="https://github.com/Rohithosalli/2-1-MUX-using-pseudo-NMOS-logic-and-CMOS-logic/blob/main/graph_cmos.jpg?raw=true">
 
 ## Conclusion
 The Pseudo-NMOS logic provides a faster response at the cost of higher static power consumption, whereas the CMOS logic offers lower power consumption with reliable performance. The choice between these two implementations depends on the specific application requirements.
