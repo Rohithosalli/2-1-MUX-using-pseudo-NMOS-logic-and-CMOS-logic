@@ -36,7 +36,7 @@ Below are the schematics of the 2-to-1 MUX using both Pseudo-NMOS logic and CMOS
 ![Pseudo-NMOS Logic Test](C:\Users\rohit\OneDrive\Pictures\test_sudo.jpg)
 
 ### CMOS Logic Test Schematic
-![CMOS Logic Test]("C:\Users\rohit\OneDrive\Pictures\test_cmos.jpg")
+![CMOS Logic Test]<img src="https://github.com/Rohithosalli/2-1-MUX-using-pseudo-NMOS-logic-and-CMOS-logic/blob/main/test_cmos.jpg?raw=true">
 
 ## Simulation Results
 The simulation results demonstrate the functionality and performance of both implementations. The key parameters analyzed include power consumption, delay, and noise margins.
