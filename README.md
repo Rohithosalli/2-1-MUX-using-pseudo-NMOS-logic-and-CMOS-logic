@@ -27,7 +27,7 @@ CMOS logic uses both PMOS and NMOS transistors to implement the logic gates. It 
 Below are the schematics of the 2-to-1 MUX using both Pseudo-NMOS logic and CMOS logic:
 
 ### Pseudo-NMOS Logic Schematic
-![Pseudo-NMOS Logic](C:\Users\rohit\OneDrive\Pictures\sudonmos_mu.jpg)
+![Pseudo-NMOS Logic] <img src=https://github.com/Rohithosalli/2-1-MUX-using-pseudo-NMOS-logic-and-CMOS-logic/blob/main/sudonmos_mu.jpg?raw=true>
 
 ### CMOS Logic Schematic
 ![CMOS Logic]<img src="https://github.com/Rohithosalli/2-1-MUX-using-pseudo-NMOS-logic-and-CMOS-logic/blob/main/coms%20mu.jpg?raw=true">
