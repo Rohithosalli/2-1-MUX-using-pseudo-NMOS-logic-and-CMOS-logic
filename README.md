@@ -30,7 +30,7 @@ Below are the schematics of the 2-to-1 MUX using both Pseudo-NMOS logic and CMOS
 ![Pseudo-NMOS Logic](C:\Users\rohit\OneDrive\Pictures\sudonmos_mu.jpg)
 
 ### CMOS Logic Schematic
-![CMOS Logic](C:\Users\rohit\OneDrive\Pictures\coms mu.jpg)
+![CMOS Logic]<img src="https://github.com/Rohithosalli/2-1-MUX-using-pseudo-NMOS-logic-and-CMOS-logic/blob/main/coms%20mu.jpg?raw=true">
 
 ### Pseudo-NMOS Logic Test Schematic
 ![Pseudo-NMOS Logic Test](C:\Users\rohit\OneDrive\Pictures\test_sudo.jpg)
