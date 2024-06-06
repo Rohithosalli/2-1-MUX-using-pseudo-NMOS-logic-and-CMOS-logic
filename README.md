@@ -42,10 +42,10 @@ Below are the schematics of the 2-to-1 MUX using both Pseudo-NMOS logic and CMOS
 The simulation results demonstrate the functionality and performance of both implementations. The key parameters analyzed include power consumption, delay, and noise margins.
 
 ### Pseudo-NMOS Logic Simulation Results
-![Pseudo-NMOS Simulation Results]("C:\Users\rohit\OneDrive\Pictures\test_sudo.jpg")
+![Pseudo-NMOS Simulation Results]<img src="https://github.com/Rohithosalli/2-1-MUX-using-pseudo-NMOS-logic-and-CMOS-logic/blob/main/graph_sudo.jpg?raw=true">
 
 ### CMOS Logic Simulation Results
-![CMOS Simulation Results]("C:\Users\rohit\OneDrive\Pictures\test_cmos.jpg")
+![CMOS Simulation Results]<img src="C:\Users\rohit\OneDrive\Pictures\test_cmos.jpg">
 
 ## Conclusion
 The Pseudo-NMOS logic provides a faster response at the cost of higher static power consumption, whereas the CMOS logic offers lower power consumption with reliable performance. The choice between these two implementations depends on the specific application requirements.
