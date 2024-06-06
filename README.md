@@ -14,7 +14,7 @@ This project demonstrates the design and simulation of a 2-to-1 multiplexer (MUX
 - [License](#license)
 
 ## Introduction
-A multiplexer is a combinational circuit that selects one of the many input signals and directs it to the output. The 2-to-1 MUX selects one of the two inputs based on a single control signal. This project explores two implementations of the 2-to-1 MUX: one using Pseudo-NMOS logic and the other using CMOS logic.
+A multiplexer is a combinational circuit that selects one of the many input signals and directs it to the output. The 2-to-1 MUX selects one of the two inputs based on a single control signal. This project explores two implementations of the 2-to-1 MUX: one using pseudo-NMOS logic and the other using CMOS logic.
 
 ## Design Overview
 ### Pseudo-NMOS Logic
